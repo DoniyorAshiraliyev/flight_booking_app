@@ -1,4 +1,4 @@
-import 'package:flight_booking_concept_ui/main_pages/home_page.dart';
+import 'package:flight_booking_concept_ui/screens/home_page.dart';
 import 'package:flight_booking_concept_ui/utils/hard_coded_data.dart';
 import 'package:flight_booking_concept_ui/widgets/custom_flutter_logo.dart';
 import 'package:flight_booking_concept_ui/widgets/custom_text_field.dart';

@@ -1,4 +1,4 @@
-import 'package:flight_booking_concept_ui/main_pages/add_flight_page_controller.dart';
+import 'package:flight_booking_concept_ui/screens/add_flight_page_controller.dart';
 import 'package:flight_booking_concept_ui/sub_pages/checkout_page.dart';
 import 'package:flight_booking_concept_ui/sub_pages/seat_selection_page.dart';
 import 'package:flight_booking_concept_ui/widgets/custom_tab_bar/custom_tab_bar.dart';

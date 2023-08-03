@@ -1,4 +1,4 @@
-import 'package:flight_booking_concept_ui/login_page.dart';
+import 'package:flight_booking_concept_ui/screens/login_page.dart';
 import 'package:flight_booking_concept_ui/utils/hard_coded_data.dart';
 import 'package:flutter/material.dart';
 
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) => MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flight Booking UI Concept',
+        title: 'Flight Booking UI',
         home: LoginPage(),
       );
 }
